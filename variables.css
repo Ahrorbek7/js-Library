@@ -1,0 +1,17 @@
+:root {
+  --color: #f0f0f0f;
+  --grey-color: #505050;
+  --background-color: #f0f0f0;
+  --border-radius: 11px;
+  --form-background-color: #f0f0f0;
+  --read-status-checked-border: 1px solid var(--read-status-checked-background);
+}
+
+body.dark-theme {
+  --color: #e3e3e3;
+  --grey-color: #a4a4a4;
+  --background-color: #151515;
+  --border-radius: 11px;
+  --form-background-color: #151515;
+  --form-submit-hover-background-color: #ffffff;
+}
